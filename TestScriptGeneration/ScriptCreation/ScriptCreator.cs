@@ -25,7 +25,7 @@ namespace TestScriptGeneration
         }
         public void VerificationStep(string elementname)
         {
-            outputFile.WriteLine("this.Trace(LogType.Verification,\"" + elementname + "\");");
+            //Removed because of NDA
         }
         public void ScriptVerify(string PriSignalName, string SecSignalName, string PriSignalValue, string SecSignalValue, string PriSignal2Name, string SecSignal2Name, string PriSignal2Value, string SecSignal2Value, string time) {
             //Removed because of NDA
