@@ -1,5 +1,7 @@
 # TIGER-Plus
-Model based test script generation framework with optimization of abstract test cases leveraging machine learning techniques and algorithms
+Model based test script generation framework with optimization of abstract test cases leveraging symbolic machine learning techniques and algorithms.
+
+**Disclaimer:** This is a prototype implementation and includes exploratory logic and design choices that are functionally correct but can be improved or simplified during refactoring.
 
 **Suggested Improvements**
 
