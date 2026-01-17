@@ -21,8 +21,6 @@ namespace TestScriptGeneration
         public List<Signal> ReadFile(string path)
         {
             Signal = new List<Signal>();
-            //  Console.WriteLine("Getting Signals Information");
-            //  Console.WriteLine("================================");
             Path = path;
             if (File.Exists(Path) == false)
             {
