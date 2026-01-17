@@ -21,6 +21,7 @@ Performance Optimization: Refactor any inefficient algorithms or data structures
 
 UI Enhancements: Improve the front-end UI for a more polished and user-friendly experience i.e. converting the project in WPF.
 
+**Note:** Dont forget to copy GW version in C:\GraphWalker folder, in case there is no C drive, change the path in the code before compiling to avoid unnecessary errors and warnings. Also, deprecated libraries may need to be updated.
 
 Author:
 Muhammad Nouman Zafar
