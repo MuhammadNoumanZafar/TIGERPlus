@@ -19,7 +19,6 @@ namespace TestScriptGeneration
             using (StreamReader r = new StreamReader(url))
             {
                 string json = r.ReadToEnd();
-                //  List<Rootobject> items = JsonConvert.DeserializeObject<List<Rootobject>>(json);
                 List<Rootobject> tc = FromDelimitedJson<Rootobject>(new StringReader(json)).ToList();
                 return tc;
             }
