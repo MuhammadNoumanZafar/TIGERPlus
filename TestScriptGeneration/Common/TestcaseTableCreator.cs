@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestScriptGeneration
 {
-    class TestcaseTableCreator
+    class TestcaseTableCreator //redundant class needs to be removed
     {
         public void GetData(Testcase testcase, Signal signal) { 
         
