@@ -20,8 +20,6 @@ namespace TestScriptGeneration
             testcaseData = tc;
             signals = i_signals;
             string time = ""; //bug should be in loop
-            //Spliting string and coverting it into respective data type
-            //string filePath = path;
             try
             {
 
