@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TestScriptGeneration
 {
-    class ScriptCreator
+    class ScriptCreator //C# test script creator class
     {
         StreamWriter outputFile;
         //Removed because of NDA
